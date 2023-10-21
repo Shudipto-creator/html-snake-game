@@ -13,8 +13,3 @@ USE the arrows in order to move the snake
 
 
 ![Play screen](https://raw.githubusercontent.com/Shudipto-creator/html-snake-game/main/playscreen.png)
-
-
-# WANNA PLAY ?
-## Just CLICK BELOW ⬇️
-### ![PLAY](https://shudipto-creator.github.io/html-snake-game/)
